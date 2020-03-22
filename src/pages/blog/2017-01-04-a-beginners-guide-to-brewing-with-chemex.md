@@ -3,9 +3,10 @@ templateKey: blog-post
 title: Psychisch gesund bleiben während der Corona-Krise
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  Die aktuellen Entwicklungen während der Pandemie betreffen jeden einzelnen.
+  Dabei ist ein guter Umgang mit den psychischen Belastungen unabdingbar. In
+  meinem Blog will ich Ihnen Möglichkeiten zeigen, wie Sie psychisch
+  ausgeglichen bleiben.
 featuredpost: true
 featuredimage: /img/apple.jpg
 tags:
