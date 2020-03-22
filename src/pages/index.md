@@ -10,8 +10,6 @@ mainpitch:
     Es kann unterschiedliche Gründe und Lebenssituationen geben,
     die es notwendig machen, sich einen Rat einzuholen. Aus diesem Grund biete
     ich unterschiedliche Hilfestellungen an.
-description: >-
-
 intro:
   blurbs:
     - image: /img/hands.jpg
@@ -25,10 +23,4 @@ intro:
       text: >
         Wenn wir merken, dass sich etwas ungewohnt und schwer anfühlt,
         dann sind wir dabei uns zu verändern.
-main:
-  heading: Lebensberatung
-  description: >
-    Es kann unterschiedliche Gründe und Lebenssituationen geben,
-    die es notwendig machen, sich einen Rat einzuholen. Aus diesem Grund biete
-    ich unterschiedliche Hilfestellungen an.
 ---
