@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Psychologische Onlineberatung
 image: /img/home-jumbotron.jpg
-heading: Coaching und Beziehungsberatung
+heading: Achtsamkeit, Selbstfürsorge & Veränderung
 subheading: Ihre professionelle und qualifizierte Beratung
 mainpitch:
   title: Warum online einen Psychologen konsultieren?
@@ -14,16 +14,17 @@ description: >-
 
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/hands.jpg
       text: >
-        Depressionen, Ängste, Lebenskrisen.
-    - image: /img/coffee.png
+        Fühlen,Denken und Leben ohne zu bewerten. Schreite achtsam
+        durch das Leben und du kannst dein Leben verlängern.
+    - image: /img/diary.jpg
       text: >
-        Selbstwertsteigerung, Identitätsentwicklung, Persönlichkeitsentwicklung, Berufscoaching, 
-        Burn-out-Prävention
-    - image: /img/coffee-gear.png
+        Nur wer auch auf sich schaut, kann innerlich ausgeglichen sein.
+    - image: /img/apple.jpg
       text: >
-        Paarberatung,Familienkonflikte, Abgrenzung lernen
+        Wenn wir merken, dass sich etwas ungewohnt und schwer anfühlt,
+        dann sind wir dabei uns zu verändern.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
