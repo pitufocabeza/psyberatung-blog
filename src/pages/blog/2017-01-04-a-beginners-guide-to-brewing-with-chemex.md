@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Psychisch gesund bleiben während der Corona-Krise
-date: 2017-01-04T15:04:10.000Z
+date: 2020-03-22T15:04:10.000Z
 description: >-
   Die aktuellen Entwicklungen während der Pandemie betreffen jeden einzelnen.
   Dabei ist ein guter Umgang mit den psychischen Belastungen unabdingbar. In
