@@ -45,6 +45,7 @@ export default class Index extends React.Component {
                 method="post"
                 action="/contact/thanks/"
                 data-netlify="true"
+                data-netlify-honeypot="bot-field"
                 data-netlify-recaptcha="true"
                 onSubmit={this.handleSubmit}
               >
@@ -89,7 +90,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Message
+                    Nachricht
                   </label>
                   <div className="control">
                     <textarea
@@ -101,9 +102,10 @@ export default class Index extends React.Component {
                     />
                   </div>
                 </div>
+                <div data-netlify-recaptcha="true"></div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Send
+                    Bestätigen
                   </button>
                 </div>
               </form>
