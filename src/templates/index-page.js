@@ -172,7 +172,6 @@ export const pageQuery = graphql`
           title
           description
         }
-        description
         intro {
           blurbs {
             image {
@@ -184,8 +183,6 @@ export const pageQuery = graphql`
             }
             text
           }
-          heading
-          description
         }
       }
     }
