@@ -15,14 +15,16 @@ intro:
     - image: /img/ear.png
       headline: Psychologische Beratung
       text: >
-        .
+        Umgang mit Grübelschleifen, Niedergeschlagenheit, Selbstzweifeln, 
+        Strukturlosigkeit, Ängsten, Stress und Lebenskrisen
     - image: /img/hands.png
-      headline: Psychologische Beratung
+      headline: Coaching
       text: >
-        Nur wer auch auf sich schaut, kann innerlich ausgeglichen sein.
+        Selbstmanagement, Stressbewältigung, Persönlichkeitsentwicklung, 
+        Selbstsicherheitstraining, Selbstwertsteigerung, berufliche Weiterentwicklung, 
+        Burn-Out-Prävention
     - image: /img/family.png
-      headline: Psychologische Beratung
+      headline: Beziehungsberatung
       text: >
-        Wenn wir merken, dass sich etwas ungewohnt und schwer anfühlt,
-        dann sind wir dabei uns zu verändern.
+        Paarberatung & Familienkonflikte
 ---
