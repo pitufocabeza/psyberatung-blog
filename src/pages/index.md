@@ -15,13 +15,14 @@ intro:
     - image: /img/ear.png
       headline: Psychologische Beratung
       text: >
-        Umgang mit Grübelschleifen, Niedergeschlagenheit, Selbstzweifeln, 
-        Strukturlosigkeit, Ängsten, Stress und Lebenskrisen
+        Strukturlosigkeit & Niedergeschlagenheit, 
+        Selbstzweifeln & Ängsten, 
+        Stress & Lebenskrisen
     - image: /img/hands.png
       headline: Coaching
       text: >
         Selbstmanagement & Stressbewältigung, 
-        Selbstsicherheits- & Selbstwertsteigerung
+        Selbstsicherheits- & Selbstwertsteigerung,
         Persönlichkeitsentwicklung & berufliche Weiterentwicklung
     - image: /img/family.png
       headline: Beziehungsberatung
