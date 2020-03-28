@@ -12,14 +12,14 @@ mainpitch:
     ich unterschiedliche Hilfestellungen an.
 intro:
   blurbs:
-    - image: /img/hands.jpg
+    - image: /img/health.png
       text: >
         Fühlen,Denken und Leben ohne zu bewerten. Schreite achtsam
         durch das Leben und du kannst dein Leben verlängern.
-    - image: /img/diary.jpg
+    - image: /img/hands.png
       text: >
         Nur wer auch auf sich schaut, kann innerlich ausgeglichen sein.
-    - image: /img/apple.jpg
+    - image: /img/ring.png
       text: >
         Wenn wir merken, dass sich etwas ungewohnt und schwer anfühlt,
         dann sind wir dabei uns zu verändern.
