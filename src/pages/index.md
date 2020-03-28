@@ -13,18 +13,15 @@ mainpitch:
 intro:
   blurbs:
     - image: /img/ear.png
-      headline: >
-      Psychologische Beratung
+      headline: Psychologische Beratung
       text: >
         .
     - image: /img/hands.png
-      headline: >
-      Psychologische Beratung
+      headline: Psychologische Beratung
       text: >
         Nur wer auch auf sich schaut, kann innerlich ausgeglichen sein.
     - image: /img/family.png
-      headline: >
-      Psychologische Beratung
+      headline: Psychologische Beratung
       text: >
         Wenn wir merken, dass sich etwas ungewohnt und schwer anfühlt,
         dann sind wir dabei uns zu verändern.
