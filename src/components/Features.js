@@ -6,7 +6,6 @@ const FeatureGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
     {gridItems.map(item => (
       <div key={item.text} className="column is-4">
-       <h5>{item.title}</h5>
         <section className="section">
           <div className="has-text-centered">
             <div
@@ -18,7 +17,8 @@ const FeatureGrid = ({ gridItems }) => (
               <PreviewCompatibleImage imageInfo={item} />
             </div>
           </div>
-          <p>{item.text}</p>
+            <h5>{item.headline}</h5>
+            <p>{item.text}</p>
         </section>
       </div>
     ))}
@@ -29,6 +29,7 @@ FeatureGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+      headline: PropTypes.string,
       text: PropTypes.string,
     })
   ),

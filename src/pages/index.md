@@ -13,7 +13,7 @@ mainpitch:
 intro:
   blurbs:
     - image: /img/ear.png
-      title: Psychologische Beratung
+      headline: Psychologische Beratung
       text: >
         .
     - image: /img/hands.png
