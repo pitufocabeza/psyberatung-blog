@@ -13,6 +13,8 @@ mainpitch:
 intro:
   blurbs:
     - image: /img/ear.png
+      heading: >
+        Lebensberatung
       text: >
         .
     - image: /img/hands.png
