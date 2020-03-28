@@ -6,6 +6,7 @@ const FeatureGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
     {gridItems.map(item => (
       <div key={item.text} className="column is-4">
+       <h5>{item.title}</h5>
         <section className="section">
           <div className="has-text-centered">
             <div
@@ -17,7 +18,6 @@ const FeatureGrid = ({ gridItems }) => (
               <PreviewCompatibleImage imageInfo={item} />
             </div>
           </div>
-          <h5>{item.title}</h5>
           <p>{item.text}</p>
         </section>
       </div>
