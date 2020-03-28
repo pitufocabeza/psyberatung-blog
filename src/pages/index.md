@@ -2,14 +2,14 @@
 templateKey: index-page
 title: Psychologische Onlineberatung
 image: /img/home-jumbotron.jpg
-heading: Achtsamkeit, Selbstfürsorge & Veränderung
+heading: 
 subheading: Ihre professionelle und qualifizierte Beratung
 mainpitch:
   title: Warum online einen Psychologen konsultieren?
   description: >
     Es kann unterschiedliche Gründe und Lebenssituationen geben,
     die es notwendig machen, sich einen Rat einzuholen. Aus diesem Grund biete
-    ich unterschiedliche Hilfestellungen an.
+    ich verschiedene Hilfestellungen an.
 intro:
   blurbs:
     - image: /img/ear.png
