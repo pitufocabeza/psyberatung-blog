@@ -15,17 +15,13 @@ intro:
     - image: /img/ear.png
       headline: Psychologische Beratung
       text: >
-        Strukturlosigkeit & Niedergeschlagenheit, 
-        Selbstzweifeln & Ängsten, 
-        Stress & Lebenskrisen
+        Umgang mit Selbstzweifeln, Strukturlosigkeit, Ängsten und Lebenskrisen.
     - image: /img/hands.png
       headline: Coaching
       text: >
-        Selbstmanagement & Stressbewältigung, 
-        Selbstsicherheits- & Selbstwertsteigerung,
-        Persönlichkeitsentwicklung & berufliche Weiterentwicklung
+        Verbessertes Selbstmanagement und Stressbewältigung durch persönliche & berufliche Weiterentwicklung.
     - image: /img/family.png
       headline: Beziehungsberatung
       text: >
-        Paarberatung & Familienkonflikte
+        Lösungen für Konflikte in der Familie und Beziehungen.
 ---
