@@ -20,9 +20,9 @@ intro:
     - image: /img/hands.png
       headline: Coaching
       text: >
-        Selbstmanagement, Stressbewältigung, Persönlichkeitsentwicklung, 
-        Selbstsicherheitstraining, Selbstwertsteigerung, berufliche Weiterentwicklung, 
-        Burn-Out-Prävention
+        Selbstmanagement & Stressbewältigung, 
+        Selbstsicherheits- & Selbstwertsteigerung
+        Persönlichkeitsentwicklung & berufliche Weiterentwicklung
     - image: /img/family.png
       headline: Beziehungsberatung
       text: >
