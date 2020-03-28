@@ -9,7 +9,7 @@ mainpitch:
   description: >
     Es kann unterschiedliche Gründe und Lebenssituationen geben,
     die es notwendig machen, sich einen Rat einzuholen. Aus diesem Grund biete
-    ich verschiedene Hilfestellungen an.
+    ich verschiedene Hilfestellungen an:
 intro:
   blurbs:
     - image: /img/ear.png
