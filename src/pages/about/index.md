@@ -3,11 +3,9 @@ templateKey: about-page
 path: /about
 title: Über mich
 ---
-\###Aus- und Weiterbildungen
+\###Aus- und Weiterbildungen + Berufliche Erfahrungen
 
-Ich absolvierte die Studiengänge Psychologie, Bachelor of Science sowie das Aufbaustudium Psychologie, Master of Science. Diese Qualifikationen berechtigen mich den Titel „Psychologin“ offiziell zu führen. In meinem Studium wählte ich die Schwerpunkte Klinische Psychologie sowie Arbeits- und Organisationspsychologie. Im Anschluss begann ich die Ausbildung zur Psychologischen Psychotherapeutin mit dem Schwerpunkt Verhaltenstherapie für Erwachsene sowie die Zusatzausbildung für Kinder- und Jugendliche. Während meiner Weiterbildung zur psychologischen Psychotherapeutin habe ich bereits über 650 Stunden supervidierte Einzeltherapiestunden durchgeführt, 1800 Stunden in einer assoziierten psychosomatischen Klinik gearbeitet, 120 Stunden Selbsterfahrung und mehr als 700 Stunden Fortbildungen absolviert.
-
-\###Berufliche Erfahrungen
+Ich absolvierte das Grundstudium Psychologie (Bachelor of Science) sowie das Aufbaustudium Psychologie (Master of Science). Diese Qualifikationen berechtigen mich den Titel *Psychologin* offiziell zu führen. In meinem Studium wählte ich die Schwerpunkte Klinische Psychologie sowie Arbeits- und Organisationspsychologie. Im Anschluss begann ich die Ausbildung zur Psychologischen Psychotherapeutin mit dem Schwerpunkt Verhaltenstherapie für Erwachsene sowie die Zusatzausbildungen für Kinder- und Jugendliche und Gruppentherapie.
 
 Bereits zu Anfängen der Online-Beratung arbeitete ich während meiner Studienzeit als Online-Lerncoach, Nachhilfelehrerin und Übungsautorin für das erfolgreiche StartUp-Unternehmen sofatutor. Nach meinem Studienabschluss arbeitete ich in psychosomatischen und psychiatrischen Kliniken und habe in diesem Rahmen Einzel- sowie Gruppentherapien durchgeführt. Zusätzlich leitete ich Gruppen zum Achtsamkeitstraining und zur Stressbewältigung. Durch meine Erfahrungen durfte ich viele unterschiedliche Menschen mit zum Teil sehr komplexen Schwierigkeiten kennenlernen und auf dem Weg zur Besserung ihrer Probleme unterstützen. Zusätzlich arbeitete ich als Psychologin in einer ambulant-sozialpsychiatrischen Praxis (Kinder- und Jugendpsychiatrie), in der mein Tätigkeitsbereich die Diagnostik und Beratung von psychischen Störungen im Kindes- und Jugendalter sowie Paar- und Familienkonflikte umfasste.
 
