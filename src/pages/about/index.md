@@ -3,6 +3,8 @@ templateKey: about-page
 path: /about
 title: Über mich
 ---
+
+
 ### **Aus- und Weiterbildungen + Berufliche Erfahrungen**
 
 Ich absolvierte das Grundstudium Psychologie (Bachelor of Science) sowie das Aufbaustudium Psychologie (Master of Science). Diese Qualifikationen berechtigen mich den Titel *Psychologin* offiziell zu führen. In meinem Studium wählte ich die Schwerpunkte Klinische Psychologie sowie Arbeits- und Organisationspsychologie. Im Anschluss begann ich die Ausbildung zur Psychologischen Psychotherapeutin mit dem Schwerpunkt Verhaltenstherapie für Erwachsene sowie die Zusatzausbildungen für Kinder- und Jugendliche und Gruppentherapie.
