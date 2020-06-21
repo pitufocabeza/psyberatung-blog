@@ -3,8 +3,6 @@ templateKey: about-page
 path: /about
 title: Über mich
 ---
-
-
 ![](/img/profilfoto.png)
 
 ### **Aus- und Weiterbildungen & Berufliche Erfahrungen**
